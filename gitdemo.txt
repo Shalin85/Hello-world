@@ -1,1 +1,2 @@
 this is a sample doc for the git.
+This is a new line added to the file
