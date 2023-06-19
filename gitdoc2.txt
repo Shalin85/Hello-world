@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is to add on emergency fix
+=======
+This is a new line for conflict
+>>>>>>> firstdemo
